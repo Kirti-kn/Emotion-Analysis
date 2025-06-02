@@ -5,4 +5,4 @@ The reel sections shows the most relatable videos and those are solely based on 
 - Selenium webdriver is used for scraping the data from the web and Google generative AI is used for the emotion analysis. 
 
 This is the link to a demo video:
-[![Watch the video](assets/EA_thumbnail.png)](https://youtu.be/4ca02xeRwBA)
+[![Watch the video](assets/EA_thumbail.png)](https://youtu.be/4ca02xeRwBA)
